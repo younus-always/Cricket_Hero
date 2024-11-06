@@ -1,0 +1,122 @@
+[
+      {
+            "id": 1,
+            "name": "Virat Kohli",
+            "country": "India",
+            "cover": "https://i.ibb.co.com/t48kvn9/Virat-Kohli-wallpaper-1.jpg",
+            "player_img": "https://i.ibb.co.com/4MmZd7k/Virat-Kohli-wallpaper.jpg",
+            "role": "Batsman",
+            "price": 2000000,
+            "hand": "Right-Hand-Bat"
+      },
+      {
+            "id": 2,
+            "name": "Ben Stokes",
+            "country": "England",
+            "cover": "https://i.ibb.co.com/dQkstk0/Ready-to-rock-once-again.jpg",
+            "player_img": "https://i.ibb.co.com/dQkstk0/Ready-to-rock-once-again.jpg",
+            "role": "All-rounder",
+            "price": 1800000,
+            "hand": "Left-Hand-Bat"
+      },
+      {
+            "id": 3,
+            "name": "Kane Williamson",
+            "country": "New Zealand",
+            "cover": "https://i.ibb.co.com/7tFZX5V/42de0524-dbf0-42c1-b6cb-2a5cc1478ecc.jpg",
+            "player_img": "https://i.ibb.co.com/7tFZX5V/42de0524-dbf0-42c1-b6cb-2a5cc1478ecc.jpg",
+            "role": "Batsman",
+            "price": 1500000,
+            "hand": "Right-Hand-Bat"
+      },
+      {
+            "id": 4,
+            "name": "Jasprit Bumrah",
+            "country": "India",
+            "cover": "https://i.ibb.co.com/WxB3tVN/Recent-photoshoot.jpg",
+            "player_img": "https://i.ibb.co.com/WxB3tVN/Recent-photoshoot.jpg",
+            "role": "Bowler",
+            "price": 1300000,
+            "hand": "Right-Hand-Bowler"
+      },
+      {
+            "id": 5,
+            "name": "Pat Cummins",
+            "country": "Australia",
+            "cover": "https://i.ibb.co.com/SRqgVrj/Pat-Cummins-Pictures.jpg",
+            "player_img": "https://i.ibb.co.com/SRqgVrj/Pat-Cummins-Pictures.jpg",
+            "role": "Bowler",
+            "price": 1700000,
+            "hand": "Right-Hand-Bowler"
+      },
+      {
+            "id": 6,
+            "name": "Shakib Al Hasan",
+            "country": "Bangladesh",
+            "cover": "https://i.ibb.co.com/Bwn657r/Shakib-Al-Hasan.jpg",
+            "player_img": "https://i.ibb.co.com/Bwn657r/Shakib-Al-Hasan.jpg",
+            "role": "All-rounder",
+            "price": 1400000,
+            "hand": "Left-Hand-Bat"
+      },
+      {
+            "id": 7,
+            "name": "David Warner",
+            "country": "Australia",
+            "cover": "https://i.ibb.co.com/nnrY3cZ/bd8f1efb-d554-490a-ae39-d16dcdbca654.jpg",
+            "player_img": "https://i.ibb.co.com/nnrY3cZ/bd8f1efb-d554-490a-ae39-d16dcdbca654.jpg",
+            "role": "Batsman",
+            "price": 1600000,
+            "hand": "Left-Hand-Bat"
+      },
+      {
+            "id": 8,
+            "name": "Babar Azam",
+            "country": "Pakistan",
+            "cover": "https://i.ibb.co.com/G5HR929/Babar-azam.jpg",
+            "player_img": "https://i.ibb.co.com/G5HR929/Babar-azam.jpg",
+            "role": "Batsman",
+            "price": 2100000,
+            "hand": "Right-Hand-Bat"
+      },
+      {
+            "id": 9,
+            "name": "Rashid Khan",
+            "country": "Afghanistan",
+            "cover": "https://i.ibb.co.com/CMHSL59/Rashid-Khan-Afghanistan-Team-All-rounder-and-Also-my-Favourite-One.jpg",
+            "player_img": "https://i.ibb.co.com/CMHSL59/Rashid-Khan-Afghanistan-Team-All-rounder-and-Also-my-Favourite-One.jpg",
+            "role": "Bowler",
+            "price": 1200000,
+            "hand": "Right-Hand-Bowler"
+      },
+      {
+            "id": 10,
+            "name": "Quinton de Kock",
+            "country": "South Africa",
+            "cover": "https://i.ibb.co.com/Y7LX6k5/Quinny-s-in-the-Blue-Gold.jpg",
+            "player_img": "https://i.ibb.co.com/Y7LX6k5/Quinny-s-in-the-Blue-Gold.jpg",
+            "role": "Wicketkeeper Batsman",
+            "price": 1500000,
+            "hand": "Left-Hand-Bat"
+      },
+      {
+            "id": 11,
+            "name": "Andre Russell",
+            "country": "West Indies",
+            "cover": "https://i.ibb.co.com/264cMmC/IPL-2023-Birthday-boy-Russell-thrills-KKR-fans.jpg",
+            "player_img": "https://i.ibb.co.com/264cMmC/IPL-2023-Birthday-boy-Russell-thrills-KKR-fans.jpg",
+            "role": "All-rounder",
+            "price": 1900000,
+            "hand": "Right-Hand-Bat"
+      },
+      {
+            "id": 12,
+            "name": "Joe Root",
+            "country": "England",
+            "cover": "https://i.ibb.co.com/MsX0NYZ/Joe-root.jpg",
+            "player_img": "https://i.ibb.co.com/MsX0NYZ/Joe-root.jpg",
+            "role": "Batsman",
+            "price": 1600000,
+            "hand": "Right-Hand-Bat"
+      }
+]
