@@ -1,6 +1,6 @@
-import React, { useState } from 'react'
-import AddPlayers from '../AddPlayers/AddPlayers'
-import Players from '../Players/Players'
+import { useState } from 'react';
+import AddPlayers from '../AddPlayers/AddPlayers';
+import Players from '../Players/Players';
 
 export default function MainSection({ players, selectPlayer, selectP, removePlayer }) {
 

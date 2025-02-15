@@ -31,10 +31,10 @@ export default function Footer() {
                               <div>
                                     <h3 className='font-bold text-lg mb-3'>Quick Links</h3>
                                     <ul className='space-y-2 list-disc list-inside text-gray-400'>
-                                          <li><a href="3">Home</a></li>
-                                          <li><a href="3">Players</a></li>
-                                          <li><a href="3">Teams</a></li>
-                                          <li><a href="3">Matches</a></li>
+                                          <li><a href='#'>Home</a></li>
+                                          <li><a href="#">Players</a></li>
+                                          <li><a href="#">Teams</a></li>
+                                          <li><a href="#">Matches</a></li>
                                     </ul>
                               </div>
                               <div>
@@ -47,7 +47,7 @@ export default function Footer() {
                               </div>
                         </div>
                   </div>
-                  <p className='capitalize text-gray-500 text-sm font-semibold text-center border-t border-gray-700 py-6'>&copy; 2024 cricket heroes world. all rights reserved</p>
+                  <p className='capitalize text-gray-500 text-sm font-semibold text-center border-t border-gray-700 py-6'>Copyright &copy; 2024 cricket hero world. all rights reserved</p>
             </div>
       )
 }
